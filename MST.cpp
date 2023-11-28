@@ -152,6 +152,8 @@ int main() {
   return 0;
 }
 
+// usar compilador online, ou compilar pelo terminar com: g++ MST.cpp -o  MST.exe
+
 /* entrada:
 Euro
 9
